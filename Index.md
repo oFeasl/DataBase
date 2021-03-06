@@ -1,4 +1,12 @@
 # DataBase
-### DBMS
-#### The database management system (DBMS) is the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a "database system". Often the term "database" is also used to loosely refer to any of the DBMS, the database system or an application associated with the database.
+## 四个基本概念
+### 1数据Data
+##### 1.1数据的含义称为数据的语义
+### 2数据库Database
+##### 2.1数据库(Database,简称DB)是长期储存在计算机内、有组织的、可共享的大量数据的集合
+### 3数据库管理系统DBMS
+##### 3.1位于用户与操作系统之间的一层数据管理软件
+##### 3.2提供数据操纵语言DML(修删查改)
+### 4数据库系统DBS
+##### 4.1在计算机系统中引入数据库后的系统构成
 
